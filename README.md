@@ -1,4 +1,4 @@
-![Flutter news app theindianappguy](https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fflutternerd.com%2Fnews-app-with-newsapi-org-flutter%2F&psig=AOvVaw0KZuz8PM3o5-OlIdKqPWh_&ust=1678840169911000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKD0mJGV2v0CFQAAAAAdAAAAABAE)
+![Flutter news app theindianappguy](https://mlllmtpfcm6y.i.optimole.com/wSCet8g-uLpyK_79/w:auto/h:auto/q:auto/https://flutternerd.com/wp-content/uploads/2020/06/news-app-with-flutter-by-theindianappguy.jpg)
 
 
 Installation
