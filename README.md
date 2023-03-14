@@ -1,4 +1,4 @@
-![Flutter news app theindianappguy](https://user-images.githubusercontent.com/55942632/81510826-7fccd680-9332-11ea-9e67-ad6268aadf35.png)
+![Flutter news app theindianappguy](https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fflutternerd.com%2Fnews-app-with-newsapi-org-flutter%2F&psig=AOvVaw0KZuz8PM3o5-OlIdKqPWh_&ust=1678840169911000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKD0mJGV2v0CFQAAAAAdAAAAABAE)
 
 
 Installation
