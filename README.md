@@ -1,4 +1,4 @@
-![Flutter news app theindianappguy](https://mlllmtpfcm6y.i.optimole.com/wSCet8g-uLpyK_79/w:auto/h:auto/q:auto/https://flutternerd.com/wp-content/uploads/2020/06/news-app-with-flutter-by-theindianappguy.jpg)
+(https://mlllmtpfcm6y.i.optimole.com/wSCet8g-uLpyK_79/w:auto/h:auto/q:auto/https://flutternerd.com/wp-content/uploads/2020/06/news-app-with-flutter-by-theindianappguy.jpg)
 
 
 Installation
